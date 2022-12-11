@@ -1,0 +1,44 @@
+{
+  "id": "3325217",
+  "name": "BBS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6376660",
+      "name": "推荐服务",
+      "font_class": "tuijianfuwu",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "13856700",
+      "name": "专题",
+      "font_class": "zhuanti",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "16328047",
+      "name": "写字",
+      "font_class": "xiezi",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1174",
+      "name": "用研",
+      "font_class": "yongyan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "18165130",
+      "name": "签字审核,审批,编辑,书写",
+      "font_class": "sign-review",
+      "unicode": "e878",
+      "unicode_decimal": 59512
+    }
+  ]
+}
